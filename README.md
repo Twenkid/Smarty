@@ -1,5 +1,5 @@
 # Smarty
-Extendable Framework for Bilingual and Multilingual Comprehension Assistants
+Extendable Framework for Bilingual and Multilingual Comprehension Assistants in C#
 
 An intelligent dictionary, designed to integrate WordNet, BalkaNet and an ordinary dictionary text database with a rich GUI, tooltips and various NLP processing operations.
 
