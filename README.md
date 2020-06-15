@@ -5,7 +5,7 @@ An intelligent dictionary, designed to integrate WordNet, BalkaNet and an ordina
 
 Originally developed in C# from scratch, about 9000 lines of code, written for about 3 months in the spring of 2007, during an undergraduate internship at the Wolverhampton University's Research Group in Computational Linguistics.
 
-* The binary application, the original 2007 release and the original thesis, paper, presentation slides.
+* The binary application, the original 2007 release and the original thesis, LREC 2008 and IMCSIT 2008 conference paper, presentation slides:
 https://github.com/Twenkid/Smarty/blob/master/Smarty-2007-Comprehension-Assistant-Release-6-2020.zip 
 
 Run Smarty.Exe, Select File ->  Load Dictionary
