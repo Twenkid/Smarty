@@ -7,6 +7,11 @@ An intelligent dictionary, designed to integrate WordNet, BalkaNet and an ordina
 
 Originally developed in C# from scratch, about 9000 lines of code, written for about 3 months in the spring of 2007, during an undergraduate internship at the Wolverhampton University's Research Group in Computational Linguistics.
 
+
+<img src="https://github.com/Twenkid/Smarty/blob/master/smarty-pic1.png">
+<img src="https://github.com/Twenkid/Smarty/blob/master/smarty-pic2.png">
+
+
 * The binary application, the 2008 version 0.1 NB (Not Balkanet) with the original thesis, LREC 2008 and IMCSIT 2008 conference paper, presentation slides:
 
 Version 0.1 NB (Aug 2008)
@@ -17,9 +22,11 @@ https://github.com/Twenkid/Smarty/blob/master/Smarty_0-1NB-2008-Comprehension-As
 Dictionaries load automatically, a bigger text area, fixed bugs from the 2007 version etc.
 Definitions of the multiword expressions in a tooltip etc.
 
-__Known bug:__ Search endings doesn't show words which matched exactly the search, e.g. "ed" would not return "ed", but only longer words.
+__Known bug:__ Sometimes search endings doesn't show words which matched exactly the search, e.g. "ed" would not return "ed", but only longer words.
 
 See also the Readme in the archive.
+
+<img src="https://github.com/Twenkid/Smarty/blob/master/s1.png">
 
 
 * The binary application was the original 2007 release and the original thesis, LREC 2008 and IMCSIT 2008 conference paper, presentation slides:
@@ -33,4 +40,8 @@ A newer version of the program existed, released in 2008. It fixed a few bugs an
 
 http://artificial-mind.blogspot.com/2008/07/smarty-extendable-framework-for.html
 
+
+<img src="https://github.com/Twenkid/Smarty/blob/master/s2.png">
+
+<img src="https://github.com/Twenkid/Smarty/blob/master/s3.png">
 
