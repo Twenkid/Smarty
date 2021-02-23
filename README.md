@@ -3,7 +3,7 @@ Extendable Framework for Bilingual and Multilingual Comprehension Assistants in 
 by Todor Arnaudov - Tosh
 http://twenkid.com
 
-An intelligent dictionary, designed to integrate WordNet, BalkaNet and an ordinary dictionary text database with a rich GUI, tooltips and various NLP processing operations.
+An intelligent dictionary, designed to integrate WordNet, BalkaNet and an ordinary dictionary databases with a rich GUI, tooltips and various NLP processing operations.
 
 Originally developed in C# from scratch, about 9000 lines of code, written for about 3 months in the spring of 2007, during an undergraduate internship at the Wolverhampton University's Research Group in Computational Linguistics.
 
