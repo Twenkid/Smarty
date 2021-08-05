@@ -45,3 +45,11 @@ http://artificial-mind.blogspot.com/2008/07/smarty-extendable-framework-for.html
 
 <img src="https://github.com/Twenkid/Smarty/blob/master/s3.png">
 
+
+* See also: 
+
+https://github.com/Twenkid/Smarty
+https://github.com/Twenkid/NLP-Computational-Linguistics
+https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
+https://github.com/Twenkid/Suchinitel-1-GPT2-Synthesizer-work
+https://github.com/Twenkid/Similarity-NLP-Corpus-CPP
