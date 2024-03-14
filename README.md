@@ -1,12 +1,22 @@
 # Smarty
-Extendable Framework for Bilingual and Multilingual Comprehension Assistants in C# 
+### Extendable Framework for Bilingual and Multilingual Comprehension Assistants in C# 
 by Todor Arnaudov - Tosh
 http://twenkid.com
 
 An intelligent dictionary, designed to integrate WordNet, BalkaNet and an ordinary dictionary databases with a rich GUI, tooltips and various NLP processing operations.
 
-Originally developed in C# from scratch, about 9000 lines of code, written for about 3 months in the spring of 2007, during an undergraduate internship at the Wolverhampton University's Research Group in Computational Linguistics.
+Originally developed in C# from scratch, about 9000 lines of code, written for about 3 months in the spring of 2007, during an undergraduate internship at the Wolverhampton University's Research Group in Computational Linguistics. Smarty was the most advanced and intelligent dictionary in late 2000s and probably in many years in 2010s. Many of Smarty's functions are now part in comprehension assistant dictionary-translation websites such as Reverso Contexts and others.
 
+## News
+
+**14.3.2024:** Smarty is revived, compiled again from a May 2007 version which was presented for the defence of the thesis. Now using SharpDevelop 2.2 :), the original .NET 2.0. The ancient plans for continuation will be finally executed, I hope so. Now it probably will be multilingual, multimodal etc. (...) and will be part of the AGI infrastructure Vsy, or **Jack of All Trades**. (...) I will protect the rest of the already clear details from the "competition", LOL, I thought of open sourcing it, maybe at some point, I don't know. Look forward for the releases and support me and The Sacred Computer!
+
+![image](https://github.com/Twenkid/Smarty/assets/23367640/8dfc44f0-23f8-4353-845b-083956eefa6c)
+The rebuilt Smarty, work in progress.
+
+...
+
+The published one, a bit older version with minor cosmetic changes and without BalkaNet 2008:
 
 <img src="https://github.com/Twenkid/Smarty/blob/master/smarty-pic1.png">
 <img src="https://github.com/Twenkid/Smarty/blob/master/smarty-pic2.png">
