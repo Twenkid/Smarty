@@ -9,6 +9,27 @@ Originally developed in C# from scratch, about 9000 lines of code, written for a
 
 ## News
 
+* **Smarty 2 prototype:** again with the Balkanet "leaked DB"* turned on: a few fixes and extensions, some preprarations, additional GUI for future work, preparations for interaction with machine translation from an API and LLMs, March 2024 
+
+![image](https://github.com/user-attachments/assets/ddeb601e-bbac-461b-a468-ffcfe9ca8e2b)
+
+* Balkanet was partial and not so needed anymore anyway, Wordnet can be easily translated with decent quality and with a richer vocabulary than this partial DB.
+* I did some automatic translations of Wordnet and preprarations for creation of a multilingual system, but it was put on hold.
+* A second list with suffix search which is on by default (no need to switch modes)
+* Quick copying to clipboard with just hover over "C" below the main article or copying everything with a Click next to the main query (left) and now copying also the History (that was missed in the 2007-2008 releases)
+* Wordnet articles: mouse hover N, V, A to switch between nouns, verbs, adjectives/adverbs
+* Built with .NET 2.0, could run on ancient machines
+* Debug/settings window...
+* A few bug fixes
+
+<img src="https://github.com/user-attachments/assets/773b8671-c209-4f23-915c-e8829c173e80" width=50%> <!-- ![image](https://github.com/user-attachments/assets/773b8671-c209-4f23-915c-e8829c173e80)-->
+
+The "Research Accelerator/Research Assistant/Assistant C#/ACS is a continuation of ideas from Smarty, conceived after "Smarty" and I'm using it every day in different degrees of development since the early 2010s, however it is a "stealth" product and is not published and I haven't published many unimplemented ideas. It may be publshed someday with Vsy/Master of All Trades/Вседържец - other organizations will probably discover the ideas as well anyway. 
+
+* "Superhuman" was a hybrid of Smarty and the research Accelerator, developed in Java around 2012 - it was not published.
+  
+(...)
+
 **14.3.2024:** Smarty is revived, compiled again from a May 2007 version which was presented for the defence of the thesis. Now using SharpDevelop 2.2 :), the original .NET 2.0. The ancient plans for continuation will be finally executed, I hope so. Now it probably will be multilingual, multimodal etc. (...) and will be part of the AGI infrastructure Vsy, or **Jack of All Trades**. (...) I will protect the rest of the already clear details from the "competition", LOL, I thought of open sourcing it, maybe at some point, I don't know. Look forward for the releases and support me and The Sacred Computer!
 
 ![image](https://github.com/Twenkid/Smarty/assets/23367640/8dfc44f0-23f8-4353-845b-083956eefa6c)
